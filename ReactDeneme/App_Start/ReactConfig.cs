@@ -25,8 +25,7 @@ namespace ReactDeneme
             //	.AddScriptWithoutTransform("~/Scripts/bundle.server.js")
 
             ReactSiteConfiguration.Configuration
-                .AddScript("~/Scripts/react/SseDeneme.jsx")
-                .AddScript("~/Scripts/react/ReactDeneme.jsx");
+                .AddScript("~/Scripts/react/ReadSSE.jsx");
 
 
         }
